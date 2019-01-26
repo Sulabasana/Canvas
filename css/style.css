@@ -8,3 +8,6 @@ canvas{
 /*height: 900px;*/
 border: 1px dashed black;
 }
+img{
+	height: 40px;
+}
